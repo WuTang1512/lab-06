@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Watkin Tang>`
-- **CCID:** `<watkin1>`
+- **Full Name:** `Watkin Tang`
+- **CCID:** `watkin1`
 
 ## References and Resources
 
